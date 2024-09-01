@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, i'm pqba
 
-<!--
-**pqba/pqba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build apps on the web, am study computer science and cognitive science in university, and 
 
-Here are some ideas to get you started:
+Currenty exploring:
+- Neural networks which simulate memory degeneration
+- A web app leveraging generative AI which builds unique stories based on multimodal data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked on:
+- A complex number library in C++ with Catch2 test integration
+- A minimalist, pastel colored Reddit app built with Flask (Python)
+- Network infrastructure, VMWare and IT device imaging through an internship
+- A steampunk brick breaker game build for Android built in Java
