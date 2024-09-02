@@ -1,6 +1,6 @@
 #  hi, i'm pqba
 
-my website: [site.tld](site.tld) 
+my website: [pqba.github.io](pqba.github.io) 
 
 ```
 .--.     
